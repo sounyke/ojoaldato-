@@ -1,1 +1,96 @@
 # Esto es una broma
+Ponente:
+Adolfo Antón, coordinador del Datalab y de Visualizar en Medialab Prado entre 2016 y 2019.
+
+Info: 
+Editor que se puee convertir en lo que quieras, un navegador, un editor de texto plano…
+El modo org es el que da sentido a su vida. 
+
+Mardaun sintaxis simple
+https://www.gnu.org/software/emacs/
+Org mode o markdown  son importante para algo que todavía no he descubierto
+
+
+Relacion con el ordenador, existen 3 formas según su criterio;
+-	Consola
+-	Editor
+-	Navegador web
+
+El mundo de los datos viene de tres mundos:
+-	Software libre
+-	Licencias libres
+-	Datos abiertos
+
+
+El navegador es un rederizao de html
+Ctrl + u se ve la jodida compilación
+Estamos en primero de carrera y ahora me esta hablando de elementos y de marcas
+Marca y elemento de html
+
+Este pavo usa duckduck go un buscador que  es para que no te rastreen los datos y tb starpage
+Tb lo usa para recuperar información con los recuperadores de búsqueda…esta frase es asi, aunque no se entienda nada
+Un buscador de no se que…que sustituye con Thor no se porque exactamente
+
+El html es un rollo leerlo y el markdown es una sintaxis simple que se guarda las cosas en gifthub.
+
+Gift es una tecnología creada por Linux para poner orden en el kernel de Linux.  Gift es similar a Mercurial, Sun y otros.
+Git es el software de versiones de facto. Hace una visualización de lo que tienes en un repositiorio de Gift
+
+Supuestamente un programa o como el lo domine se compone de Software, readme y licencia. 
+
+HACERSE CUENTA DE GITHUB, que no se que es, ni para que sirve, ni que tiene que ver con los datos…quizás sea que para la visualización de datos es importante convertir los datos a 
+
+PANDOC a universal document converter
+Tor debería ser el buscador por defecto
+Y trackula te monta un Jackson que lo que hace es utilizar un motor de analisis de registro de datos de like view que es una extensión que srive para Firefox que con los mismos datos 
+El concepto de las setas son las flores de los hongos que stan por debajo donde se ven os trackeadores mas importantes que son google y github. Muchas paginas que hacen puentes de google de ofrecer información sobre lo que estas viendo.
+
+*.svg es un formato de adobe que esta escrito es xml y que es un formato como adobe illustrator para graficos vectoriales. Ha tenido un desarrollo que permite que las imágenes sean “responsive” es menos flexible que el raster que es una matriz que te genera cada piel de la imagen. 
+Vidas contadas.org
+
+http://vidascontadas.org/sort/mapas/
+www.esri.es para hacer mapas para funcionarios, tiene arcgis como que lo peta. Carto era gratuito y se podía usar medianamente bien, pero de repente se hizo de pago y pasaron de el
+
+Gvsig es de la generalitat valenciana esta hecha por cartografos y qgis es modular motor central y se le van metiendo plugins.
+Mapbox es una evolución de leaftet que tiene una petrolera detrás para visualizar, con documentación vectorial. Software para web sobre el que esta basado carto.
+Diff te hace una búsqueda por nombre y te saca la diferencia.
+
+https://cartografo.es/presentacion/cartography/#1
+https://archive.org/
+
+
+http://mapas.muimota.net/
+
+FACEBOOK, AMAZON, GOOGLE
+
+https://archive.org/web/
+
+API: Es una estructura ordenada de los contenidos de manera que Vale para hablar directamente a una base de datos de un web.
+Las siglas API vienen del inglés Application Programming Interface. En español sería Interfaz de Programación de Aplicaciones.
+
+Literal es una búsqueda mediante comillas en el buscador, se denomina búsqueda literal.
+
+https://www.medialab-prado.es/proyectos/tallerworkshop-visualizar15-datos-para-el-bien-comun-commoning-data
+
+https://github.com/medialab-prado/visualizar16
+
+https://github.com/medialab-prado/visualizar16
+
+http://visualizar2016.apps4citizens.org/
+
+PARA GENERAR GRAFICOS INTERESANTES;!
+https://www.datawrapper.de/
+https://rawgraphs.io/
+https://observablehq.com/
+
+https://www.youtube.com/watch?v=9p5_x-x6OlY
+https://flourish.studio/
+https://infogram.com/
+https://bokeh.org/ …con esta se pueden hacer cosas con código.
+
+Un ejemplo de movida rara que paso  es que http://www.kimonolabs.com/ se cerro el servicio en201 porque la compro una empresa tocha, por lo que no te puedes fiar de cualquiera. 
+
+Para transformación de datos usa esto..por ejemplo pasar algo a *.json
+https://openrefine.org/
+Bastante útil para filtrar datos de una manera eficaz..sobre todo datos en masa
+
